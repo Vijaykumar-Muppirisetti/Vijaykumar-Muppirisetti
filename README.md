@@ -5,7 +5,6 @@ A Computer Science Engineer transitioning into Cybersecurity, with a passion for
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering from GITAM University
-- 🔐 **SOC Analyst** working in Cybersecurity
 - 💻 Full-stack developer with expertise in Spring Boot and Python
 - 🌐 Currently learning and building webpages and applications
 - 🤖 Enthusiast in IoT, Computer Vision, Cloud, and AI
@@ -14,11 +13,11 @@ A Computer Science Engineer transitioning into Cybersecurity, with a passion for
 ## 🛠️ Technical Skills
 
 - **Languages:** C, C++, Java, Python
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Web Technologies:** HTML, CSS {Flexbox, CSS grid}, JavaScript
 - **Frameworks:** Spring, Spring Boot, Hibernate
 - **Databases:** SQL
 - **Tools:** Git, OpenCV
-- **Domain Knowledge:** Cybersecurity, IoT, Computer Vision, Cloud Technologies
+- **Domain Knowledge:** Cybersecurity, IoT, Computer Vision, Cloud Technologies {Oracle}
 
 ## 📚 Professional Development
 
